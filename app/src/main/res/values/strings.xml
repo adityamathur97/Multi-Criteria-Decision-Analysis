@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DBA</string>
+    <string name="enter_number_of_alternatives">Enter number of Alternatives :-</string>
+    <string name="enter_number_of_criteria">Enter number of Criterias :-</string>
+</resources>
